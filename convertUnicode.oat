@@ -1,0 +1,10 @@
+[$ Creates a function that converts a number 1-26 to Unicode $]
+
+[$ The format for creating functions is {@name@code@} $]
+[$ The format for calling functions is =@name= $]
+[$ The formula for a letter in Unicode is (Position in Alphabet) + 64. $]
+[$ We can use "-" to output numbers in Unicode. $]
+
+{@Unicode@^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^@}
+
+>"~=@Unicode=-
